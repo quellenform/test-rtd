@@ -4,7 +4,7 @@ RTD Test Project - Manual
 
 .. image:: images/main-index.jpg
 
-Contents
+Contents 2
 --------
 
 .. toctree::
